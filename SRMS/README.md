@@ -37,7 +37,6 @@ StudentManagementSystem/
 
 #Limitations
 
-Data is not stored permanently (no file handling)
 Maximum number of students is limited to 100
 
 #Author
